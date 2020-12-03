@@ -1,0 +1,6 @@
+projectKey=com.altran:MovieTicketBooking
+serverUrl=http://localhost:9000
+serverVersion=6.7.7.38951
+dashboardUrl=http://localhost:9000/dashboard/index/com.altran:MovieTicketBooking
+ceTaskId=AXCAHeP5fhOjGvc4_4zl
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXCAHeP5fhOjGvc4_4zl
